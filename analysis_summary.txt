@@ -1,0 +1,29 @@
+
+QUARTERLY PERFORMANCE ANALYSIS SUMMARY
+Generated: 2025-12-07 20:25:29
+Analyst: 24f3004072@ds.study.iitm.ac.in
+
+KEY METRICS:
+- Average Performance Score: 73.35
+- Target: 90.00
+- Industry Benchmark: 82.00
+- Gap to Target: 16.65 points
+- Gap to Benchmark: 8.65 points
+
+TREND ANALYSIS:
+- Slope: -0.686 points per quarter
+- Trend Direction: Declining
+- R-squared: 0.256
+
+FINDINGS:
+1. Performance is consistently below both target and benchmark
+2. Negative trend observed - performance declining over time
+3. Gap of 16.65 points needs to be addressed
+4. Without intervention, target unlikely to be reached
+
+RECOMMENDATIONS:
+Implement Predictive Maintenance Program to:
+- Reduce downtime and improve operational efficiency
+- Prevent performance degradation
+- Close the 16.65-point gap to target
+- Achieve industry-leading performance of 90+
